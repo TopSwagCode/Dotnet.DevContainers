@@ -3,4 +3,6 @@ string msg = "Hello, World!";
 
 Console.WriteLine(msg);
 
+Console.WriteLine($"Message is: {msg}");
+
 Console.ReadLine();
